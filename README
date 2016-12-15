@@ -7,3 +7,4 @@ FOLDER DESCRIPTION
 -------------------
 1. nonUniform1D --- Generate non-uniform mesh over a line
 2. square2D --- structured and unstructured mesh in a square domain
+3. squareWithHole2D --- Square domain with a circular hole: structured and unstructured
