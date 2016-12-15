@@ -1,0 +1,10 @@
+sq_unstr.geo === create unstructured triangular element mesh
+sq_str.geo   === create structured quadrilateral elements
+
+To run, type
+
+gmsh casename.geo -2
+
+This will create output mesh file
+casename.msh
+

@@ -6,3 +6,4 @@ Each folder, when necessary has its own README file
 FOLDER DESCRIPTION
 -------------------
 1. nonUniform1D --- Generate non-uniform mesh over a line
+2. square2D --- structured and unstructured mesh in a square domain
