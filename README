@@ -1,0 +1,8 @@
+Geometry creation and meshing using GMSH
+Both structured and unstructured mesh will be used
+
+Each folder, when necessary has its own README file
+
+FOLDER DESCRIPTION
+-------------------
+1. nonUniform1D --- Generate non-uniform mesh over a line

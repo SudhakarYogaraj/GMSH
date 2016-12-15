@@ -1,0 +1,5 @@
+Compile with the following command
+
+gmsh line.geo -1
+
+This will create the mesh file line.msh
